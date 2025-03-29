@@ -1,0 +1,26 @@
+# Xcode-specific files
+DerivedData/
+build/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdatad/
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+
+# App artifacts
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# User-specific settings
+xcuserdata/
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
